@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nami oute</string>
+    <string name="title_activity_kimera">Nami oute</string>
+    <string name="nativescript_google_maps_api_key"><!--MAPS KEY HERE--></string>
+</resources>

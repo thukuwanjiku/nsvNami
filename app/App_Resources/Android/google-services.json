@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1000428197965",
+    "firebase_url": "https://fir-test-10786.firebaseio.com",
+    "project_id": "fir-test-10786",
+    "storage_bucket": "fir-test-10786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000428197965:android:d790ec7ea4822ee9",
+        "android_client_info": {
+          "package_name": "com.thukuwanjiku.nami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000428197965-9n2a4ct93kh04sf8oh6l98r4lb8dt450.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9YMsJYIIXmCJ76OMIsZKfqcuF8rn6ues"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
